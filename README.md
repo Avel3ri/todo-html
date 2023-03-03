@@ -1,1 +1,1 @@
-Strona zrobiona z pomocą [https://www.w3schools.com/howto/howto_js_todolist.asp](w3schools) oraz z pomocą internetu 🌍.
+Strona zrobiona z pomocą [w3schools](https://www.w3schools.com/howto/howto_js_todolist.asp) oraz z pomocą internetu 🌍.
