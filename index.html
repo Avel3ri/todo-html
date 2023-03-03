@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proste ToDo</title>
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+
+    <div class="main">
+        <div class="main__header">
+                <h1>Lista todo</h1>
+                <input type="text" id="add-task" class="header__input" placeholder="Tytuł...">
+                <span onclick="addTask()" class="header__btn">Dodaj zadanie</span>
+        </div>
+    
+        <ul id="tasks-list" class="main__tasks-list">
+            <li class="task">Testowe zadanie<span class="close">×</span></li>
+        </ul>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
